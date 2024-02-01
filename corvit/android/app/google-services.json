@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "181133299992",
+    "firebase_url": "https://corvit-e2a35-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "corvit-e2a35",
+    "storage_bucket": "corvit-e2a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181133299992:android:8028b7a8facf2a81160e6d",
+        "android_client_info": {
+          "package_name": "com.sarwar.corvit.corvit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8A5mXOVqEdRYmdfeeaSh4BO2fibxj64c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
